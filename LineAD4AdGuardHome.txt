@@ -13,4 +13,5 @@
 ||voom-obs.line-scdn.net^
 
 
-#聊天室圖片 ||obs-tw.line-apps.com^
+! 聊天室圖片：暫不封鎖
+! ||obs-tw.line-apps.com^
